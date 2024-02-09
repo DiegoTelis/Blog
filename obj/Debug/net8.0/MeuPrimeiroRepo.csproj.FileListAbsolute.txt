@@ -1,0 +1,15 @@
+C:\CursoBalta\Legado\AulasGIT\MeuPrimeiroRepo\bin\Debug\net8.0\MeuPrimeiroRepo.exe
+C:\CursoBalta\Legado\AulasGIT\MeuPrimeiroRepo\bin\Debug\net8.0\MeuPrimeiroRepo.deps.json
+C:\CursoBalta\Legado\AulasGIT\MeuPrimeiroRepo\bin\Debug\net8.0\MeuPrimeiroRepo.runtimeconfig.json
+C:\CursoBalta\Legado\AulasGIT\MeuPrimeiroRepo\bin\Debug\net8.0\MeuPrimeiroRepo.dll
+C:\CursoBalta\Legado\AulasGIT\MeuPrimeiroRepo\bin\Debug\net8.0\MeuPrimeiroRepo.pdb
+C:\CursoBalta\Legado\AulasGIT\MeuPrimeiroRepo\obj\Debug\net8.0\MeuPrimeiroRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoBalta\Legado\AulasGIT\MeuPrimeiroRepo\obj\Debug\net8.0\MeuPrimeiroRepo.AssemblyInfoInputs.cache
+C:\CursoBalta\Legado\AulasGIT\MeuPrimeiroRepo\obj\Debug\net8.0\MeuPrimeiroRepo.AssemblyInfo.cs
+C:\CursoBalta\Legado\AulasGIT\MeuPrimeiroRepo\obj\Debug\net8.0\MeuPrimeiroRepo.csproj.CoreCompileInputs.cache
+C:\CursoBalta\Legado\AulasGIT\MeuPrimeiroRepo\obj\Debug\net8.0\MeuPrimeiroRepo.sourcelink.json
+C:\CursoBalta\Legado\AulasGIT\MeuPrimeiroRepo\obj\Debug\net8.0\MeuPrimeiroRepo.dll
+C:\CursoBalta\Legado\AulasGIT\MeuPrimeiroRepo\obj\Debug\net8.0\refint\MeuPrimeiroRepo.dll
+C:\CursoBalta\Legado\AulasGIT\MeuPrimeiroRepo\obj\Debug\net8.0\MeuPrimeiroRepo.pdb
+C:\CursoBalta\Legado\AulasGIT\MeuPrimeiroRepo\obj\Debug\net8.0\MeuPrimeiroRepo.genruntimeconfig.cache
+C:\CursoBalta\Legado\AulasGIT\MeuPrimeiroRepo\obj\Debug\net8.0\ref\MeuPrimeiroRepo.dll
